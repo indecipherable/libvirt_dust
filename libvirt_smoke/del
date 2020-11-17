@@ -1,0 +1,14 @@
+* chkconfig
+* dmesg
+* init
+* ipmitool
+* mdadm
+* ps
+* pstree
+* scp
+* sed
+* ssh-copy-id
+* ssh-keygen
+* systemctl
+* tar
+* xargs
